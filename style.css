@@ -1,0 +1,14 @@
+#contact-number{
+    height: 400px;
+    width: 600px;
+    border: 2.5px solid goldenrod;
+    overflow: auto;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+
